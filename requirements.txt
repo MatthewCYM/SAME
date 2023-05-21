@@ -1,0 +1,15 @@
+transformers==4.24.0
+protobuf==3.20.0
+scikit-learn
+torch~=1.7.1
+tensorboard
+tensorboardX
+sentencepiece
+numpy
+tqdm~=4.64.1
+utils~=1.0.1
+scipy~=1.5.2
+nltk~=3.5
+pandas~=1.0.1
+datasets~=2.4.0
+textattack==0.3.8

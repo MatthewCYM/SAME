@@ -1,0 +1,2 @@
+from .src.modeling_highway_bert import DeeBertForSequenceClassification
+from .src.modeling_highway_roberta import DeeRobertaForSequenceClassification
