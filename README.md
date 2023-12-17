@@ -2,7 +2,7 @@
 Official implementation of ACL 2023 paper "Dynamic Transformers Provide a False Sense of Efficiency"
 
 ### Overview
-We propose a simple yet effective energy-oriented attacking framework, **SAME**, a **s**lowdown **a**ttack framework on **m**ulti-**e**xit models.
+We propose a simple yet effective energy-oriented attacking framework, **SAME**, a **S**lowdown **A**ttack framework on **M**ulti-**E**xit models.
 
 
 ### Requirements
